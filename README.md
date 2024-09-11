@@ -8,3 +8,6 @@
 
 <p>Enlace al sitio web</p>
 <h2>https://estebanpajarodev.github.io/Roadmap-Project-one.github.io/</h2>
+<h2>Capturas de pantalla</h2>
+
+[![Captura-de-pantalla-2024-09-11-130101.png](https://i.postimg.cc/BQFSdd6W/Captura-de-pantalla-2024-09-11-130101.png)](https://postimg.cc/SJyb91CV)
