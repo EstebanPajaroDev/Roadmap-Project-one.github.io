@@ -1,10 +1,16 @@
 <h1>enlace al proyecto</h1>
 ![image](https://github.com/user-attachments/assets/fb1e6c2c-7a71-4706-a5dc-43209afe42b6)
 
-<a target="_blank">https://roadmap.sh/projects/single-page-cv</a>
+https://roadmap.sh/projects/single-page-cv
+
 <hr>
 <h3>This is a project for RoadmMap</h3>
-<h3>Este es un projecto para Roadmpar</h3>
+
+<h2>  
+Tecnologias Usadas
+</h2> 
+
+[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 
 <p>Enlace al sitio web</p>
 <h2>https://estebanpajarodev.github.io/Roadmap-Project-one.github.io/</h2>
